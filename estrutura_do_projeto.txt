@@ -1,0 +1,5 @@
+Estrutura do Projeto:
+Captura de vídeo da webcam
+Aplicação de filtros com base em teclas pressionadas
+Exibição do vídeo com o filtro aplicado
+Encerramento com tecla 'q'
